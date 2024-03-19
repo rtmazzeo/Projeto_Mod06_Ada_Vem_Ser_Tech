@@ -25,7 +25,7 @@ Este dashboard oferece uma visão geral da receita do Governo Federal do Brasil.
 
 **Dica de Ferramenta:** Em receita realizada, valor arrecadado por órgão superior e valor arrecadado por categoria, é apresentada uma tabela com a origem e a receita.
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagens/dash01.png)
 
 ### Dashboard 2: Receitas do Ministério da Fazenda em 2023
 
@@ -38,7 +38,7 @@ Este dashboard apresenta uma visão geral das receitas do Ministério da Fazenda
 
 **Dica de Ferramenta:** No gráfico de funil (receita realizada por origem), é mostrada uma tabela com a origem e a receita.
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagens/dash 02.png)
 
 ### Dashboard 3: Despesas do Ministério da Fazenda em 2023
 
@@ -52,5 +52,5 @@ Este dashboard apresenta uma visão geral das despesas do Ministério da Fazenda
 
 **Dica de Ferramenta:** No gráfico de coluna que mostra um gráfico de colunas com 2 colunas, uma para a soma do valor empenhado e outra para a soma do valor liquidado.
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagens/dash 03.png)
 
