@@ -1,6 +1,7 @@
 # Projeto 6 Grupo B - POWER BI
 
-Professor: 
+Professor: Flávio Crispin
+
 Este repositório contém o desenvolvimento do projeto 6 do Grupo B, focado na análise das Receitas e Despesas do Ministério da Fazenda utilizando o Power BI.
 
 ## Equipe
